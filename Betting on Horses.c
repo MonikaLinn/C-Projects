@@ -1,4 +1,3 @@
-//Ajito, Monika Section 1776 Midterm
 
 #include <stdio.h>
 #include <stdlib.h>
